@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+title = "AliceSystems"
+languageCode = "ja-JP"
+theme = "ananke"
+
+HasCJKLanguage = true
+summaryLength = 50
+
+[params]
+  description = "気になるソフトや開発情報メモ"
+  twitter = "https://twitter.com/GoHugoIO"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
