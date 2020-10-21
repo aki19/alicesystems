@@ -1,14 +1,36 @@
 baseURL = "https://alicesystems.netlify.app/"
 title = "AliceSystems"
 languageCode = "ja-JP"
-theme = "ananke"
+theme = "mainroad"
 
 HasCJKLanguage = true
-summaryLength = 50
 
-[params]
+[Author] # Used in authorbox
+  name = "aki19"
+  bio = "プログラマやってます。新しいサービスやソフトを試すのが大好き！<br/><a href='http://bit.ly/aki19-portfolio' target='_blank'>portfolio</a>"
+  avatar = "img/myicon.png"
+
+[Params]
   description = "気になるソフトや開発情報メモ"
-  twitter = "https://twitter.com/GoHugoIO"
+  opengraph = true
+  twitter_cards = false
+  authorbox = false
+  pager = true
+  post_meta = ["date", "categories"]
+  dateformat = "2006-01-02"
+
+[Params.logo]
+  title = "AliceSystems" # Logo title, otherwise will use site title
+  subtitle = "気になるソフトや開発情報メモ" # Logo subtitle
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  widgets = ["recent", "categories", "taglist", "social"]
+
+[Params.widgets.social]
+  twitter = "aki19"
 
 [markup]
   [markup.goldmark]
