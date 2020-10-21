@@ -49,9 +49,7 @@ iPadを使ったGTD。
 
 [Toodledo][2]
 
-<img class="alignleft" src="http://a4.phobos.apple.com/us/r1000/029/Purple/05/6d/69/mzi.sepzrxsy.75x75-65.jpg" alt="" width="60" align="left" /> <a rel="nofollow" href="http://itunes.apple.com/jp/app/2do-tasks-done-in-style/id303656546?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><strong>2Do: Tasks Done in Style 2.4.6</strong></a><a rel="nofollow" href="http://itunes.apple.com/jp/app/2do-tasks-done-in-style/id303656546?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: 仕事効率化 価格: ￥800  
-更新: 2011/02/10<br style="clear: both;" />
+<div class="appreach"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d9/de/dc/d9dedc0c-6f9b-b0ba-1d5c-ac0a9c8e5d40/source/512x512bb.jpg" alt="2Do - Todo List, Tasks &amp; Notes" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">2Do - Todo List, Tasks &amp; Notes</p><p class="appreach__info"><span class="appreach__developper">Beehive Innovations Services</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/2do-todo-list-tasks-notes/id303656546?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a><a href="https://play.google.com/store/apps/details?id=com.guidedways.android2do" rel="nofollow" class="appreach__gplink"><img src="https://nabettu.github.io/appreach/img/gplay_ja.png"></a></div></div>
 
 ## Toodledo側の設定
 
@@ -173,8 +171,6 @@ Toodledoと同期するとフォルダーがタブで並び、
 
 [Toodledo][2]
 
-<img class="alignleft" src="http://a4.phobos.apple.com/us/r1000/029/Purple/05/6d/69/mzi.sepzrxsy.75x75-65.jpg" alt="" width="60" align="left" /> <a rel="nofollow" href="http://itunes.apple.com/jp/app/2do-tasks-done-in-style/id303656546?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><strong>2Do: Tasks Done in Style 2.4.6</strong></a><a rel="nofollow" href="http://itunes.apple.com/jp/app/2do-tasks-done-in-style/id303656546?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: 仕事効率化 価格: ￥800  
-更新: 2011/02/10<br style="clear: both;" />
+<div class="appreach"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d9/de/dc/d9dedc0c-6f9b-b0ba-1d5c-ac0a9c8e5d40/source/512x512bb.jpg" alt="2Do - Todo List, Tasks &amp; Notes" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">2Do - Todo List, Tasks &amp; Notes</p><p class="appreach__info"><span class="appreach__developper">Beehive Innovations Services</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/2do-todo-list-tasks-notes/id303656546?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a><a href="https://play.google.com/store/apps/details?id=com.guidedways.android2do" rel="nofollow" class="appreach__gplink"><img src="https://nabettu.github.io/appreach/img/gplay_ja.png"></a></div></div>
 
  [2]: http://www.toodledo.com/

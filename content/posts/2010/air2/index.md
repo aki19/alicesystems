@@ -6,7 +6,7 @@ categories:
 tags:
   - AIR
 ---
-以前、[「AIR勉強中に学んだちょっとショックなこと」][1]で書きましたが、AIRでファイルシステムを作ろうとしたところ、外部アプリが開けずにあきらめて終わっていました。  
+以前、[「AIR勉強中に学んだちょっとショックなこと」]({{< ref "/posts/2010/study-air" >}})で書きましたが、AIRでファイルシステムを作ろうとしたところ、外部アプリが開けずにあきらめて終わっていました。  
 が、Adobe AIRが2.5になったということでもしかしたらできるようになったかも？・・・と調べてみたところ、  
 普通に2で対応してました・・・。
 
@@ -16,12 +16,10 @@ tags:
 前回ファイルを表にドロップして、ファイルパスを格納するところまではできていたので、  
 このパスからFileクラスを生成し、新たに追加されたopenWithDefaultApplicationメソッドを使いました。
 
-`<br />
-var file:File = new File(data.path);<br />
-file.openWithDefaultApplication();<br />
-` 
+```
+var file:File = new File(data.path);
+file.openWithDefaultApplication();
+```
 
 これでできました！  
 やっと開発続行できそうです。
-
- [1]: http://alicesystems.wordpress.com/2010/03/31/air勉強中に学んだちょっとショックなこと/

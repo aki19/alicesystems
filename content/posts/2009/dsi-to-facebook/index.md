@@ -26,7 +26,7 @@ DSiからはFacebookのユーザID（メルアド）とパスワードを保存�
 
 以下が実際に送った写真の公開URLです。
 
-<span><a href="http://www.facebook.com/photo.php?pid=13135&l=b2e1df4359&id=100000112543980">Facebookより</a></span>
+~~Facebookより~~
 
 <span>思ったよりずっと手軽なので、これからも利用してみたいです。</span>
 
@@ -38,6 +38,5 @@ DSiからはFacebookのユーザID（メルアド）とパスワードを保存�
 
 <span>おすすめです。</span>
 
-[<img style="vertical-align:middle;" src="http://images.amazon.com/images/I/41pbBzIXO%2BL._FMjpg_SL80_.jpg" alt="" />][1]<img loading="lazy" style="border:none!important;margin:0!important;" src="http://www.assoc-amazon.jp/e/ir?t=check-22&l=msn&o=9&a=B001QXDJ94" border="0" alt="" width="1" height="1" />
-
- [1]: http://www.amazon.co.jp/gp/aw/rd.html?ie=UTF8&dl=1&uid=NULLGWDOCOMO&lc=msn&a=B001QXDJ94&at=check-22&url=%2Fgp%2Faw%2Fd.html
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=check-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B001QXDJ94&linkId=bc5be0c0373b63f4a9448972cefc2615&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>

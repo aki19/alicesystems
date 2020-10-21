@@ -32,52 +32,32 @@ Twitterだとひとつひとつが短いのでなんとか英語も理解でき�
 
 今回は冒頭のホーム画面に置いているアプリから、いくつかTwitterアカウントをまとめてみたいと思います。
 
-<div class="AppInfo">
-  <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/042/Purple/05/6d/69/mzi.senbayow.175x175-75.jpg" alt="" width="75" align="left" /><strong>2Do: Stunning ToDo List 2.1</strong><br /> カテゴリ: 仕事効率化<br /> 価格: ￥450 <a rel="nofollow" href="http://itunes.apple.com/jp/app/2do-stunning-todo-list/id303656546?mt=8&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> 更新:2010/08/23<br style="clear:both;" />
-</div>
+<div class="appreach"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d9/de/dc/d9dedc0c-6f9b-b0ba-1d5c-ac0a9c8e5d40/source/512x512bb.jpg" alt="2Do - Todo List, Tasks &amp; Notes" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">2Do - Todo List, Tasks &amp; Notes</p><p class="appreach__info"><span class="appreach__developper">Beehive Innovations Services</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/2do-todo-list-tasks-notes/id303656546?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a></div></div>
 
 [@Guided Ways][1]  
 最近、for iPadのスクショを公開していたのでもうすぐなのかも。楽しみです。
 
-<div class="AppInfo">
-  <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/051/Purple/9d/3f/46/mzi.ibcofpfq.175x175-75.jpg" alt="" width="75" align="left" /><strong>Egretlist 1.6.2</strong><br /> カテゴリ: 仕事効率化<br /> 価格: ￥350 <a rel="nofollow" href="http://itunes.apple.com/jp/app/egretlist/id363951705?mt=8&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> 更新:2010/08/30<br style="clear:both;" />
-</div>
+Egretlist（公開終了）
 
 [@egretlist][2]  
 Tipsとかは別途Tumblrで紹介されてます。
 
-<div class="AppInfo">
-  <p>
-    <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/034/Purple/4a/e0/d8/mzl.qfayjmsf.175x175-75.jpg" alt="" width="75" align="left" /><strong>Convertbot — 単位・通貨換算ソフト 1.6.1（iOS 4.0 テスト済み）</strong><br /> カテゴリ: ユーティリティ<br /> 価格: ￥230 <a rel="nofollow" href="http://itunes.apple.com/jp/app/id308928075?mt=8&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> 更新:2010/07/19<br style="clear:both;" />
-  </p>
-</div>
+Convertbot（公開終了）
 
  [@tapbots][3]  
 他、WeightbotやPastebotの開発元でもあります。
 
-<div class="AppInfo">
-  <p>
-    <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/028/Purple/63/d4/61/mzl.ytxwgzip.175x175-75.jpg" alt="" width="75" align="left" /><strong>Momento (Diary/Journal) 1.0.6（iOS 4.0 テスト済み）</strong><br /> カテゴリ: ライフスタイル<br /> 価格: ￥350 <a rel="nofollow" href="http://itunes.apple.com/jp/app/momento-diary-journal/id347019672?mt=8&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> 更新:2010/07/14<br style="clear:both;" />
-  </p>
-</div>
+<div class="appreach"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/f0/21/9ef02118-c0e8-81e8-f509-38f327606985/source/512x512bb.jpg" alt="Momento - プライベート日記" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">Momento - プライベート日記</p><p class="appreach__info"><span class="appreach__developper">d3i Ltd</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/momento-%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25BC%25E3%2583%2588%25E6%2597%25A5%25E8%25A8%2598/id980592846?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a></div></div>
 
 [@MomentoApp][4]  
 iPad版も開発中っぽいですが、更新はまだ先の模様。
 
-<div class="AppInfo">
-  <p>
-    <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/046/Purple/55/cb/e0/mzi.hkxozdqk.175x175-75.jpg" alt="" width="75" align="left" /><strong>Twitterrific for Twitter 3.0.2</strong><br /> カテゴリ: ソーシャルネットワーキング<br /> 価格: 無料 <a rel="nofollow" href="http://itunes.apple.com/jp/app/twitterrific-for-twitter/id359914600?mt=8&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> 更新:2010/09/14<br style="clear:both;" />
-  </p>
-</div>
+<div class="appreach"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/1f/83/5d/1f835daa-ac29-8447-a787-35950d7edf94/source/512x512bb.jpg" alt="Twitterrific: Tweet Your Way" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">Twitterrific: Tweet Your Way</p><p class="appreach__info"><span class="appreach__developper">The Iconfactory</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/twitterrific-tweet-your-way/id580311103?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a></div></div>
 
 [@Twitterrific][5]  
 リプライもDMも同じタイムラインに並べるスタイルが私にはあっているみたいです。
 
-<div class="AppInfo">
-  <p>
-    <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/011/Purple/ce/0f/10/mzi.sprgecxq.175x175-75.jpg" alt="" width="75" align="left" /><strong>Reeder 2.1.2</strong><br /> カテゴリ: ニュース<br /> 価格: ￥350 <a rel="nofollow" href="http://itunes.apple.com/jp/app/reeder/id325502379?mt=8&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> 更新:2010/08/17<br style="clear:both;" />
-  </p>
-</div>
+<div class="appreach"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/46/04/c8/4604c82a-8aa7-1bd9-a67d-ffed1c027fbe/source/512x512bb.jpg" alt="Reeder 5" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">Reeder 5</p><p class="appreach__info"><span class="appreach__developper">Silvio Rizzi</span><span class="appreach__price">¥610</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/reeder-5/id1529445840?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a></div></div>
 
 [@reederapp][6]  
 現在はfor Macの開発に忙しいみたいですね。

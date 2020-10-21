@@ -47,7 +47,7 @@ XMLファイルひとつ作ればできます。
 
 例えば今回作ったアクセラレータだとコードは以下のようになります。
 
-[sourcecode language=&#8221;xml&#8221;]  
+```
 <?xml version="1.0" encoding="UTF-8"?>  
 <os:openServiceDescription  
 xmlns:os="http://www.microsoft.com/schemas/openservicedescription/1.0">  
@@ -65,7 +65,7 @@ xmlns:os="http://www.microsoft.com/schemas/openservicedescription/1.0">
 </os:activityAction>  
 </os:activity>  
 </os:openServiceDescription>  
-[/sourcecode]
+```
 
 os:homepageUrlには利用するサービスのメインURLを記述します。  
 os:executeで記述するURLと同じドメインでなければだめです。  
@@ -83,15 +83,15 @@ value属性内の{}で囲まれた部分は変数です。
 ・・・こんな感じで作成したXMLファイルを用意して、インストールできるようにします。  
 コードは以下の通り。
 
-[sourcecode]  
+```  
 <button onclick="window.external.addService(&#8216;https://www.example.com/sample.xml&#8217;)" type="submit">アクセラレータのインストール</button>  
-[/sourcecode]
+```
 
 ・使ってみる
 
 ありがとうございます。
 
-IE８で[リンク先][3]のボタンをクリックしてインストールしてください。
+IE８で~~リンク先~~のボタンをクリックしてインストールしてください。
 
 すみませんが、勉強用に作ったものなので自己責任でお願いします。
 
@@ -105,6 +105,5 @@ IE８で[リンク先][3]のボタンをクリックしてインストールし�
 
  [1]: http://www.flickr.com/photos/41082249@N07/4326570373/ "アクセラレータ"
  [2]: http://www.flickr.com/photos/41082249@N07/4327317698/ "投稿画面"
- [3]: http://www.asahi-net.or.jp/~vx7a-oogk/develop/TwitterQuickPost.htm
  [4]: http://msdn.microsoft.com/ja-jp/library/cc287851(VS.85).aspx
  [5]: http://www.okoshi.org/tadashi/optimism/2009/03/21/ie8_10.html

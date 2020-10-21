@@ -22,7 +22,7 @@ Your unique useridと書かれたところにある文字の羅列がuseridに�
 次にこれを使ってtokenを得ます。  
 ActionScriptだと以下のようなコードで得ることができます。
 
-[sourcecode language=&#8221;actionscript3&#8243;]  
+```
 private function loadXML():void {  
 // tokenを得るAPIをたたく  
 var getTokenRequest:URLRequest = new URLRequest("http://api.toodledo.com/api.php?method=getToken;userid=" + UniqueUserId + ";");  
@@ -42,7 +42,7 @@ var tokenXML:XML = XML(loader.data);
 trace(tokenXML);  
 Token = tokenXML.toString();  
 }  
-[/sourcecode]
+```
 
 tokenを得たら先ほど確認したuseridとパスワードを組み合わせてkeyを得ます。  
 が、この時パスワードと連結した全体の文字列をMD5ハッシュする必要があります。  
@@ -53,20 +53,20 @@ ActionScriptの場合、以下のライブラリを使ってMD5ハッシュで�
 DLしたswcファイルをプロジェクトの外部ライブラリとして指定します。  
 ファイルのimport文は以下の通り。
 
-[sourcecode language=&#8221;actionscript3&#8243;]  
+```
 import com.adobe.crypto.*;  
-[/sourcecode]
+```
 
 これを使って以下のようにMD5ハッシュし、keyを生成します。
 
-[sourcecode language=&#8221;actionscript3&#8243;]  
+```
 /**  
 * keyを得る（ハッシュしたパス＋Token＋UserId）  
 */  
 private function getKey():void {  
 Key = MD5.hash(MD5.hash(PassWord) + Token + UserId);  
 }  
-[/sourcecode]
+```
 
 これでkeyを使ったAPIが使えます。
 

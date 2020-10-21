@@ -17,7 +17,7 @@ tags:
 
 [Delicious Library][1]  
 蔵書管理。一番最初に買ったMacソフトです。  
-去年[レビュー][2]書きました。  
+去年[レビュー]({{< ref "/posts/2009/deliciouslibrary" >}})書きました。  
 バーコードでスキャンすると瞬時に本棚に追加されます。便利。  
 （でもWebサービスのブクログもかなりよく出来ていて、iPadアプリとかもあるので  
 あえて買わなくても・・・という感じもしてしまいます。今なら。）
@@ -54,7 +54,6 @@ UIが美しいソフトが多いのでトータルで満足度が高く、お金
 Winの時は（開発者のくせに）ソフトウェアを買う、ということがほとんどなかったのでここが一番の変化かも？
 
  [1]: http://www.delicious-monster.com/
- [2]: http://alicesystems.wordpress.com/2009/08/16/蔵書管理ソフト/
  [3]: http://www.panic.com/candybar/
  [4]: http://agilewebsolutions.com/products/1Password
  [5]: http://vibealicious.com/apps/notify/

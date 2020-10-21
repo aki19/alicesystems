@@ -75,9 +75,7 @@ GTDを実践するようになって一年程経ちますが、
 最近日本語化されたけど訳が変で気持ち悪い。  
 iPhoneアプリもあり。
 
-<div class="AppInfo">
-  <img width="60" class="alignleft" align="left" src="http://a1.phobos.apple.com/us/r1000/038/Purple/dc/b7/81/mzi.cftjqbqd.75x75-65.jpg" /><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/wunderlist-task-manager/id406644151?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>wunderlist Task Manager 1.1.1</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/wunderlist-task-manager/id406644151?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br />カテゴリ: 仕事効率化 価格: 無料<br />更新: 2011/01/12<br style="clear:both;" />
-</div>
+wunderlist Task Manager（公開終了）
 
 <div class="ShareInfo">
   <strong><a rel="nofollow" target="_blank" href="http://codea-dev.com/gtd/">GeeTeeDee &#8211; Download GeeTeeDee</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://codea-dev.com/gtd/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://codea-dev.com/gtd/" alt="" /></a></strong></p> 

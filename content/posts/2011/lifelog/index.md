@@ -18,18 +18,14 @@ tags:
 
 せっかくなので今回は、私がライフログに使っているアプリと用途をまとめてみたいと思います。
 
-<img width="60" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/022/Purple/79/f4/0a/mzl.ryszjxcd.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/streaks-motivational-calendar/id345184462?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>Streaks &#8211; Motivational Calendar 3.2</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/streaks-motivational-calendar/id345184462?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: 仕事効率化 価格: ￥230  
-更新: 2011/03/24<br style="clear:both;" />
+<div class="appreach"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/df/1a/98/df1a98b9-0a3a-a6fc-50f9-2fcdf2d0f98b/source/512x512bb.jpg" alt="Streaks" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">Streaks</p><p class="appreach__info"><span class="appreach__developper">Crunchy Bagel</span><span class="appreach__price">¥610</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/streaks/id963034692?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a></div></div>
 
 カレンダーにチェックすることで、やったことを記録してまとめることができるアプリです。  
 私は、毎日の散歩と喫茶店に行った日を記録してます。
 
 <a rel="nofollow" target="_blank" href="http://aki19.posterous.com/streaks">さらに美しくなったStreaksで継続を目指そう &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://aki19.posterous.com/streaks"><img src="http://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/streaks" alt="" /></a>
 
-<img width="60" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/032/Purple/40/fb/ef/mzi.puccvzaj.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/daytum/id352646537?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>Daytum 1.0.3</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/daytum/id352646537?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: ライフスタイル 価格: 無料  
-更新: 2011/02/04<br style="clear:both;" />
+Daytum（公開終了）
 
 好きなことを数で記録＋きれいにグラフ出力してくれるアプリです。  
 自分のインフォグラフィックみたいなのができますよ。  
@@ -43,16 +39,12 @@ tags:
 以後、徳島のスポットはほとんど私が登録する羽目に・・・。  
 食事処を中心に、同行者に迷惑をかけない限りは必ずチェックインするようにしています。
 
-<img width="60" class="alignleft" align="left" src="http://a6.mzstatic.com/us/r1000/009/Purple/48/f9/12/mzi.etmoyfdl.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/moneylog/id321781493?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>Moneylog 2.2.0</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/moneylog/id321781493?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: ファイナンス 価格: ￥230  
-更新: 2010/12/22<br style="clear:both;" />
+Moneylog（公開終了）
 
 支出管理アプリ。デザインはクールですが、機能的には可もなく不可もなくといったところです。  
 基本外食なので毎日支出あり・・・。
 
-<img width="60" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/015/Purple/23/da/56/mzi.dgjfmidh.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/bills-on-your-table/id350387186?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>Bills ~ On your table 1.4.2</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/bills-on-your-table/id350387186?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: ファイナンス 価格: ￥450  
-更新: 2011/02/05<br style="clear:both;" />
+Bills ~ On your table（公開終了）
 
 支出管理アプリその２。フォルダ内に入れてます。  
 公共料金などは同居人に請求する必要があるので、Moneylogとは別にして  
@@ -60,9 +52,7 @@ tags:
 
 <a rel="nofollow" target="_blank" href="http://aki19.posterous.com/bills-164">美しい支出管理アプリBills購入 &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://aki19.posterous.com/bills-164"><img src="http://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/bills-164" alt="" /></a>
 
-<img width="60" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/047/Purple/a6/a5/49/mzl.ncoytyks.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/fastever-snap/id386955086?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>FastEver Snap 1.4</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/fastever-snap/id386955086?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: 仕事効率化 価格: ￥115  
-更新: 2011/03/26<br style="clear:both;" />
+FastEver Snap（公開終了）
 
 Evernoteユーザー御用達の写真アップロードアプリ。  
 位置情報付きでアップできるので、はじめて訪れたカフェの料理写真を撮ったり、  
@@ -76,9 +66,7 @@ Evernoteユーザー御用達の写真アップロードアプリ。
 作成したカフェマップはこんな風に閲覧して活用してます。  
 上はAwesomeNoteの写真ビュー。下はEvernote公式クライアントのマップビューです。
 
-<img width="60" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/015/Purple/b7/6e/73/mzl.drjlzulp.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/instagram/id389801252?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>Instagram 1.5.2</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/instagram/id389801252?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: 写真 価格: 無料  
-更新: 2011/03/26<br style="clear:both;" />
+<div class="appreach"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/67/7b/ae/677bae73-e875-b442-b474-b1ee54128b9c/source/512x512bb.jpg" alt="Instagram" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">Instagram</p><p class="appreach__info"><span class="appreach__developper">Instagram, Inc.</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/instagram/id389801252?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a><a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="nofollow" class="appreach__gplink"><img src="https://nabettu.github.io/appreach/img/gplay_ja.png"></a></div></div>
 
 写真オンリーTwitterのようなアプリ。  
 用意されているフィルターを使うだけで簡単に洒落た写真ができるので愛用してます。  
@@ -86,9 +74,7 @@ Evernoteユーザー御用達の写真アップロードアプリ。
 
 <a rel="nofollow" target="_blank" href="http://aki19.posterous.com/instagram">Instagramおもしろーい &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://aki19.posterous.com/instagram"><img src="http://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/instagram" alt="" /></a>
 
-<img width="60" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/049/Purple/66/45/50/mzi.kmsaxddj.75x75-65.jpg" /> <a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/mogsnap/id418843885?mt=8&#038;uo=4&#038;at=11l9Ag"><strong>MogSnap 1.1.1</strong></a><a rel="nofollow" target="_blank" href="http://itunes.apple.com/jp/app/mogsnap/id418843885?mt=8&#038;uo=4&#038;at=11l9Ag"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: ソーシャルネットワーキング 価格: 無料  
-更新: 2011/03/03<br style="clear:both;" />
+MogSnap（公開終了）
 
 料理写真を投稿して「食べたい！」ポイントがもらえるアプリ。  
 フォルダ内に入れてます。  

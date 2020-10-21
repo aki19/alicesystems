@@ -12,9 +12,7 @@ tags:
 [Daytum][1]がiPhoneアプリをリリースしたことにより、  
 ライフハッカーを中心に再注目を浴びているようです。
 
-<div class="AppInfo">
-  <img class="alignleft" src="http://a1.phobos.apple.com/us/r1000/007/Purple/75/06/4c/mzi.muvgjxmr.75x75-65.jpg" alt="" width="60" align="left" /><a rel="nofollow" href="http://itunes.apple.com/jp/app/daytum/id352646537?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><strong>Daytum 1.0.2 for iPhone</strong></a><a rel="nofollow" href="http://itunes.apple.com/jp/app/daytum/id352646537?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a><br /> カテゴリ: ライフスタイル 価格: 無料<br /> 更新: 2010/12/31<br style="clear: both;" />
-</div>
+Daytum（公開終了）
 
 私自身はおそらくLifehacking.jpが一番最初に紹介した時に始めたと記憶していますが、  
 肝心のデータの追加方法が面倒で、ほどなくやめてしまいました。  

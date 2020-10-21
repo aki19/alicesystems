@@ -12,9 +12,7 @@ Egretlinksは、EvernoteのURLが設定されているノートのみを表示�
 
 このアプリとはけっこう相性が良く、楽しく使っています。
 
-<img class="alignleft" src="http://a4.phobos.apple.com/us/r1000/006/Purple/54/05/bc/mzi.tkhpkonw.75x75-65.jpg" alt="" width="60" align="left" /> <a rel="nofollow" href="http://itunes.apple.com/jp/app/egretlinks/id417348812?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><strong>Egretlinks 1.1</strong></a><a rel="nofollow" href="http://itunes.apple.com/jp/app/egretlinks/id417348812?mt=8&#038;uo=4&#038;at=11l9Ag" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-sm.gif" alt="App" /></a>  
-カテゴリ: 仕事効率化 価格: ￥450  
-更新: 2011/02/08<br style="clear: both;" />
+Egretlinks（公開終了）
 
 ![Egretlinks](./1000000144.png)
 

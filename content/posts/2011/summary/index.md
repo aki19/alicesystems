@@ -20,9 +20,7 @@ tags:
 アルバムの編集用としてiPhoneアプリもあります。  
 ただ、デスクトップアプリで編集したほうが安定していますし写真も見やすいと思います。
 
-<a href="http://itunes.apple.com/jp/app/tolot/id443357356?mt=8&#038;uo=4&#038;at=11l9Ag" rel="nofollow" target="_blank"><img class="alignleft" src="http://a4.mzstatic.com/us/r1000/118/Purple/7e/8a/ae/mzl.emavzvmc.75x75-65.png" alt="" width="75" align="left" /></a> **TOLOT 1.2.5（無料）**<a href="http://itunes.apple.com/jp/app/tolot/id443357356?mt=8&#038;uo=4&#038;at=11l9Ag" rel="nofollow" target="_blank"><img src="http://r.mzstatic.com/htmlResources/2338/images/viewinitunes_jp.png" alt="App" width="90" /></a>  
-カテゴリ: 写真／ビデオ, ブック  
-販売元: <a href="http://itunes.apple.com/jp/artist/flipclip/id443357359?uo=4&#038;at=11l9Ag" rel="nofollow" target="_blank">FlipClip &#8211; FlipClip, Inc.</a>（サイズ: 8.2 MB）
+<div class="appreach"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/82/5a/6f825a55-0114-eecc-9e15-1d9f601e0cce/source/512x512bb.jpg" alt="フォトブック・写真プリントサービス TOLOT（トロット）" class="appreach__icon"><div class="appreach__detail"><p class="appreach__name">フォトブック・写真プリントサービス TOLOT（トロット）</p><p class="appreach__info"><span class="appreach__developper">TOLOT Inc.</span><span class="appreach__price">無料</span><span class="appreach__posted">posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow">アプリーチ</a></span></p></div><div class="appreach__links"><a href="https://apps.apple.com/jp/app/%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF-%25E5%2586%2599%25E7%259C%259F%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9-tolot-%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2583%25E3%2583%2588/id443357356?uo=4" rel="nofollow" class="appreach__aslink"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg"></a></div></div>
 
 通常500円のところ、新規登録で半額のキャンペーンをしていたので試してみました。  
 2011年に撮った写真をピックアップして時系列に並べて注文。  
