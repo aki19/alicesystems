@@ -1,5 +1,5 @@
 ---
-title: "Dog"
+title: "犬を飼いました"
 date: 2021-05-18T15:49:07+09:00
 categories:
   - 未分類
