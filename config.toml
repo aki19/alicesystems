@@ -5,6 +5,8 @@ theme = "mainroad"
 
 HasCJKLanguage = true
 
+googleAnalytics = "G-419DTQPCNR"
+
 [Author] # Used in authorbox
   name = "aki19"
   bio = "プログラマやってます。新しいサービスやソフトを試すのが大好き！<br/><a href='http://bit.ly/aki19-portfolio' target='_blank'>portfolio</a>"
