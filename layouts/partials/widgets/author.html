@@ -1,0 +1,22 @@
+<div class="widget-author widget">
+	<h4 class="widget__title">ABOUT ME</h4>
+	<div class="widget__content">
+		<div class="authorbox clearfix">
+			{{- with .Site.Author.avatar }}
+			<figure class="authorbox__avatar">
+				<img alt="{{ $.Site.Author.name }} avatar" src="{{ $.Site.Author.avatar | relURL }}" class="avatar" height="90" width="90">
+			</figure>
+			{{- end }}
+			{{- with .Site.Author.name }}
+			<div class="authorbox__header">
+				<span class="authorbox__name">aki19</span>
+			</div>
+			{{- end }}
+			{{- with .Site.Author.bio }}
+			<div class="authorbox__description">
+				{{ . | markdownify }}
+			</div>
+			{{- end }}
+		</div>
+	</div>
+</div>

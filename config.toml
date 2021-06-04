@@ -20,19 +20,31 @@ googleAnalytics = "G-419DTQPCNR"
   pager = true
   post_meta = ["date", "categories"]
   dateformat = "2006-01-02"
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Kosugi+Maru|Ribeye&display=swap"
+  customCSS = ["css/custom.css"]
 
 [Params.logo]
   title = "AliceSystems" # Logo title, otherwise will use site title
-  subtitle = "気になるソフトや開発情報メモ" # Logo subtitle
+  subtitle = "日々の日記＆気になるソフトや開発情報メモ" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "right"  # Configure layout for list pages
   single = "right" # Configure layout for single pages
-  widgets = ["recent", "categories", "taglist", "social"]
+  widgets = ["search", "author", "recent", "categories", "taglist", "social"]
 
 [Params.widgets.social]
   twitter = "aki19"
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "booklog"
+  url = "https://booklog.jp/users/aki19"
+  icon = "svg/book.svg" # Optional. Path relative to "layouts/partials"
+
+[[Menus.footer]]
+  Name = "プライバシーポリシー"
+  URL = "/privacy/"
 
 [markup]
   [markup.goldmark]
