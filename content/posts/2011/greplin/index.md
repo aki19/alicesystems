@@ -8,7 +8,7 @@ categories:
 
 以前紹介したクラウド検索サービス「Greplin」がバージョンアップしてベータをはずれました。
 
-[クラウドデータ検索サービス「Greplin」がEvernote対応した！]({{< ref "/posts/2011/greplin" >}})]
+[クラウドデータ検索サービス「Greplin」がEvernote対応した！]({{< ref "/posts/2010/greplin" >}})
 
 日本語検索もオッケーになったみたいです。
 
