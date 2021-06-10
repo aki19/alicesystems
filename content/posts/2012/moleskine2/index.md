@@ -6,7 +6,7 @@ categories:
 tags:
   - 活用方法
 ---
-<a href="http://www.flickr.com/photos/41082249@N07/6838291974/" title="moleskin2" rel="lightbox" class="lightview"><img src="http://farm8.staticflickr.com/7054/6838291974_d036958f54.jpg" alt="moleskin2" /></a>
+<a href="https://www.flickr.com/photos/41082249@N07/6838291974/" title="moleskin2" rel="lightbox" class="lightview"><img src="https://farm8.staticflickr.com/7054/6838291974_d036958f54.jpg" alt="moleskin2" /></a>
 
 二冊目のモレスキンを先月末に書き終わりました。  
 [前回]({{< ref "/posts/2011/moleskine1" >}})書いたことと同じようなまとめをしてみたいと思います。

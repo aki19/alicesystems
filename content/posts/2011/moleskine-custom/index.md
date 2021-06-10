@@ -6,7 +6,7 @@ categories:
 tags:
   - カスタマイズ
 ---
-<a href="http://www.flickr.com/photos/41082249@N07/6133561826/" title="20110911012949" rel="lightbox" class="lightview"><img src="http://farm7.static.flickr.com/6195/6133561826_fb89efed62.jpg" alt="20110911012949" class="alignnone" /></a>
+<a href="https://www.flickr.com/photos/41082249@N07/6133561826/" title="20110911012949" rel="lightbox" class="lightview"><img src="https://farm7.static.flickr.com/6195/6133561826_fb89efed62.jpg" alt="20110911012949" class="alignnone" /></a>
 
 近所の文房具屋さんでモレスキンと一緒に売っていたので買ってみました。
 

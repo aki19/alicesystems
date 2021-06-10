@@ -9,8 +9,7 @@ tags:
 写真はiPhoneで充分、と思っていたのですが、  
 やはりズームやマクロ撮影に弱いので思い切ってデジカメ買いました。
 
-[<img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&#038;ASIN=B00BQ6VHQI&#038;Format=_SL160_&#038;ID=AsinImage&#038;MarketPlace=JP&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=check-22" />][1]<img loading="lazy" src="http://www.assoc-amazon.jp/e/ir?t=check-22&#038;l=as2&#038;o=9&#038;a=B00BQ6VHQI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
-[ソニー Cyber-shot DSC-WX300(B) ブラック][2]<img loading="lazy" src="http://www.assoc-amazon.jp/e/ir?t=check-22&#038;l=as2&#038;o=9&#038;a=B00BQ6VHQI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ソニー Cyber-shot DSC-WX300(B) ブラック
 
 <!--more-->
 
