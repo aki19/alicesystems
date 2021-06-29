@@ -26,7 +26,7 @@ Webサービスレビューサイト
 
 これを機に、Aki*Posシリーズ全部をまとめてチェックできるサイトを作ってみました。
 
-<a href="http://alicesystems.lomo.jp/labo/apreader/index.html" target="_blank"><img loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://alicesystems.lomo.jp/labo/apreader/index.html" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://alicesystems.lomo.jp/labo/apreader/index.html" target="_blank">Aki*Pos Reader</a><a href="http://b.hatena.ne.jp/entry/http://alicesystems.lomo.jp/labo/apreader/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://alicesystems.lomo.jp/labo/apreader/index.html" alt="" /></a><br style="clear:both;" />
+<a href="http://alicesystems.lomo.jp/labo/apreader/index.html" target="_blank"><img loading="lazy" class="alignleft" align="left" border="0" src="https://capture.heartrails.com/150x130/shadow?http://alicesystems.lomo.jp/labo/apreader/index.html" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://alicesystems.lomo.jp/labo/apreader/index.html" target="_blank">Aki*Pos Reader</a><a href="https://b.hatena.ne.jp/entry/http://alicesystems.lomo.jp/labo/apreader/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://alicesystems.lomo.jp/labo/apreader/index.html" alt="" /></a><br style="clear:both;" />
 
 3つのサイトから5件ずつ記事を取ってきて、時系列に並べているだけのサイトです。  
 （まだ微妙に調子悪いときがあるので記事が少なかったらページの更新をお願いします・・・。）  
@@ -34,7 +34,7 @@ Webサービスレビューサイト
 
 ついでにポートフォリオサイトも作ってみました。
 
-<a href="http://alicesystems.lomo.jp/labo/portfolio/index.php" target="_blank"><img loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://alicesystems.lomo.jp/labo/portfolio/index.php" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://alicesystems.lomo.jp/labo/portfolio/index.php" target="_blank">aki19@AliceSystems</a><a href="http://b.hatena.ne.jp/entry/http://alicesystems.lomo.jp/labo/portfolio/index.php" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://alicesystems.lomo.jp/labo/portfolio/index.php" alt="" /></a><br style="clear:both;" />
+<a href="http://alicesystems.lomo.jp/labo/portfolio/index.php" target="_blank"><img loading="lazy" class="alignleft" align="left" border="0" src="https://capture.heartrails.com/150x130/shadow?http://alicesystems.lomo.jp/labo/portfolio/index.php" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://alicesystems.lomo.jp/labo/portfolio/index.php" target="_blank">aki19@AliceSystems</a><a href="https://b.hatena.ne.jp/entry/http://alicesystems.lomo.jp/labo/portfolio/index.php" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://alicesystems.lomo.jp/labo/portfolio/index.php" alt="" /></a><br style="clear:both;" />
 
 こちらはまだまだコンテンツ自体作りかけです。デザインも調整中です。  
 とりあえず×１０ぐらいの段階でリリースしてしまいました・・・。  

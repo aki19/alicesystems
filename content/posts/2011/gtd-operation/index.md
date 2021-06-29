@@ -30,7 +30,7 @@ GTDをうまく取り入れる方法を模索してきました。
 GTDのことが全然わからないよ！という方は以下の記事を参考にしてみてください。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://bizmakoto.jp/bizid/gtd_index.html">誠 Biz.ID：Getting Things Done（GTD）まとめ</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://bizmakoto.jp/bizid/gtd_index.html"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://bizmakoto.jp/bizid/gtd_index.html" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://bizmakoto.jp/bizid/gtd_index.html">誠 Biz.ID：Getting Things Done（GTD）まとめ</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://bizmakoto.jp/bizid/gtd_index.html"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://bizmakoto.jp/bizid/gtd_index.html" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
@@ -73,7 +73,7 @@ GTDにおけるタスクの流れは下図がわかりやすいかもしれま�
 </p>
 
 <div class="ShareInfo">
-<strong><a rel="nofollow" target="_blank" href="http://www.fenrir.co.jp/fenrirfs/">フェンリル | フリーソフト | FenrirFS ファイル管理ソフト</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://www.fenrir.co.jp/fenrirfs/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.fenrir.co.jp/fenrirfs/" alt="" /></a></strong></p> 
+<strong><a rel="nofollow" target="_blank" href="http://www.fenrir.co.jp/fenrirfs/">フェンリル | フリーソフト | FenrirFS ファイル管理ソフト</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://www.fenrir.co.jp/fenrirfs/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.fenrir.co.jp/fenrirfs/" alt="" /></a></strong></p> 
 
 <div style="color:#808080;font-size:80%;">
 </div>

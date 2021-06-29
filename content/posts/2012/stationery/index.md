@@ -13,7 +13,7 @@ tags:
 
 <!--more-->
 
-<a href="http://item.rakuten.co.jp/zakka-soho/10004759/" target="_blank"><img loading="lazy" class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://item.rakuten.co.jp/zakka-soho/10004759/" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://item.rakuten.co.jp/zakka-soho/10004759/" target="_blank">【楽天市場】BOOKMARKER with PENHOLDERペンホルダー付きブックマーカー【期間限定】配送料割引キャンペーン中!!：蘇峰-SOHO-（インテリア雑貨）</a><a href="http://b.hatena.ne.jp/entry/http://item.rakuten.co.jp/zakka-soho/10004759/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://item.rakuten.co.jp/zakka-soho/10004759/" alt="" /></a><br style="clear:both;" />
+<a href="http://item.rakuten.co.jp/zakka-soho/10004759/" target="_blank"><img loading="lazy" class="alignleft" align="left" border="0" src="https://capture.heartrails.com/150x130/shadow?http://item.rakuten.co.jp/zakka-soho/10004759/" alt="" width="150" height="130" /></a><a style="color:#0070C5;" href="http://item.rakuten.co.jp/zakka-soho/10004759/" target="_blank">【楽天市場】BOOKMARKER with PENHOLDERペンホルダー付きブックマーカー【期間限定】配送料割引キャンペーン中!!：蘇峰-SOHO-（インテリア雑貨）</a><a href="https://b.hatena.ne.jp/entry/http://item.rakuten.co.jp/zakka-soho/10004759/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://item.rakuten.co.jp/zakka-soho/10004759/" alt="" /></a><br style="clear:both;" />
 
 ブラックを購入しました。  
 モレスキンにつけようかなと思ったのですが、つけながらメモするのが厳しかったので断念。  

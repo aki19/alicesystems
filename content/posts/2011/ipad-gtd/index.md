@@ -42,7 +42,7 @@ OmniFocusもiPhone/iPadアプリになってますし、
 前回のように取っ換え引っ換え試す余裕はありません・・・。  
 そこで、とりあえずプライベートのタスクを管理していた2Doを使えないかどうか検討してみました。
 
-<a href="http://itunes.apple.com/jp/app/2do-tasks-done-in-style/id303656546?mt=8&#038;uo=4&#038;at=11l9Ag" target="itunes_store"><img src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" alt="2Do: Tasks Done in Style - Guided Ways Technologies Ltd" style="border: 0;" /></a>  
+<a href="https://www.2doapp.com/" target="_blank">2Do: Tasks Done in Style - Guided Ways Technologies Ltd</a>  
 （どうもAppHtmlでアプリがヒットしないので公式リンク）
 
 2Doは、[Toodledo][2]と同期できるタスク管理アプリです。  

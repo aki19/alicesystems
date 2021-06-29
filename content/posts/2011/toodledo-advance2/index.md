@@ -289,11 +289,11 @@ Toodledoについてはシゴタノなどでたくさん紹介されています
 <div class="ShareInfo">
   <table border="0">
     <td valign="top" width="150">
-      <a rel="nofollow" target="_blank" href="http://cyblog.jp/modules/weblogs/4060"><img loading="lazy" border="0" src="http://capture.heartrails.com/150x130/shadow?http://cyblog.jp/modules/weblogs/4060" alt="" width="150" height="130" /></a>
+      <a rel="nofollow" target="_blank" href="http://cyblog.jp/modules/weblogs/4060"><img loading="lazy" border="0" src="https://capture.heartrails.com/150x130/shadow?http://cyblog.jp/modules/weblogs/4060" alt="" width="150" height="130" /></a>
     </td>
     
     <td valign="top">
-      <strong><a rel="nofollow" target="_blank" href="http://cyblog.jp/modules/weblogs/4060">シゴタノ！ —    クラウド時代のタスク管理術入門／ビギナーズ・ハック第4回</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://cyblog.jp/modules/weblogs/4060"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://cyblog.jp/modules/weblogs/4060" alt="" /></a></strong></p> 
+      <strong><a rel="nofollow" target="_blank" href="http://cyblog.jp/modules/weblogs/4060">シゴタノ！ —    クラウド時代のタスク管理術入門／ビギナーズ・ハック第4回</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://cyblog.jp/modules/weblogs/4060"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://cyblog.jp/modules/weblogs/4060" alt="" /></a></strong></p> 
       
       <div style="color:#808080;font-size:80%;">
       </div>

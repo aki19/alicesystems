@@ -10,9 +10,9 @@ Surface Pro 4買いました。
 発表からずっと待っていたので、届いた時にはちょっと感動しちゃいました。  
 初Surfaceです。用途は開発とゲーム。
 
-<a href="http://www.amazon.co.jp/gp/product/B016ZZIS2U/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B016ZZIS2U&linkCode=as2&tag=check-22" rel="nofollow">マイクロソフト Surface Pro 4（i5／256GB／8GBモデル） Windowsタブレット［Office付き・12.3型］ （キーボード別売・シルバー） CR3-00014</a><img loading="lazy" style="border: none !important; margin: 0px !important;" src="http://ir-jp.amazon-adsystem.com/e/ir?t=check-22&l=as2&o=9&a=B016ZZIS2U" alt="" width="1" height="1" border="0" />
+<a href="http://www.amazon.co.jp/gp/product/B016ZZIS2U/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B016ZZIS2U&linkCode=as2&tag=check-22" rel="nofollow">マイクロソフト Surface Pro 4（i5／256GB／8GBモデル） Windowsタブレット［Office付き・12.3型］ （キーボード別売・シルバー） CR3-00014</a><img loading="lazy" style="border: none !important; margin: 0px !important;" src="https://ir-jp.amazon-adsystem.com/e/ir?t=check-22&l=as2&o=9&a=B016ZZIS2U" alt="" width="1" height="1" border="0" />
 
-<a href="http://www.amazon.co.jp/gp/product/B016ZYWBBK/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B016ZYWBBK&linkCode=as2&tag=check-22" rel="nofollow">マイクロソフト 【純正】 Surface Pro 4用 タイプカバー ブラック QC7-00070</a><img loading="lazy" style="border: none !important; margin: 0px !important;" src="http://ir-jp.amazon-adsystem.com/e/ir?t=check-22&l=as2&o=9&a=B016ZYWBBK" alt="" width="1" height="1" border="0" />
+<a href="http://www.amazon.co.jp/gp/product/B016ZYWBBK/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B016ZYWBBK&linkCode=as2&tag=check-22" rel="nofollow">マイクロソフト 【純正】 Surface Pro 4用 タイプカバー ブラック QC7-00070</a><img loading="lazy" style="border: none !important; margin: 0px !important;" src="https://ir-jp.amazon-adsystem.com/e/ir?t=check-22&l=as2&o=9&a=B016ZYWBBK" alt="" width="1" height="1" border="0" />
 
 一緒にキーボードカバーも購入したので、  
 触ってみた感覚は完全にノートパソコン。  

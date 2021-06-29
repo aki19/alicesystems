@@ -15,7 +15,7 @@ tags:
 文字で綴る一年、はモレスキンに書きたいなと思っていたのですが、  
 写真はどうしようかなーと考えていたところ以下のサービスを知りました。
 
-<a href="http://tolot.com/" target="_blank"><img loading="lazy" class="alignleft" src="http://capture.heartrails.com/150x130/shadow?http://tolot.com/" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://tolot.com/" target="_blank">フォトブックサービス「TOLOT」登場！A6サイズ・64ページ・フルカラー1冊500円（送料無料・税込み）</a><a href="http://b.hatena.ne.jp/entry/http://tolot.com/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tolot.com/" alt="" border="0" /></a><br style="clear: both;" />  
+<a href="http://tolot.com/" target="_blank"><img loading="lazy" class="alignleft" src="https://capture.heartrails.com/150x130/shadow?http://tolot.com/" alt="" width="150" height="130" align="left" border="0" /></a><a style="color: #0070c5;" href="http://tolot.com/" target="_blank">フォトブックサービス「TOLOT」登場！A6サイズ・64ページ・フルカラー1冊500円（送料無料・税込み）</a><a href="https://b.hatena.ne.jp/entry/http://tolot.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://tolot.com/" alt="" border="0" /></a><br style="clear: both;" />  
 64ページのフォトブックを作れるサービスです。  
 アルバムの編集用としてiPhoneアプリもあります。  
 ただ、デスクトップアプリで編集したほうが安定していますし写真も見やすいと思います。

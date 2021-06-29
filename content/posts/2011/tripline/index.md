@@ -9,7 +9,7 @@ tags:
 ---
 二十歳街道まっしぐらさんで面白そうなWebサービスが紹介されていたので、試してみました。
 
-<a rel="nofollow" target="_blank" href="http://20kaido.com/archives/2588966.html">Foursquareの履歴からGoogleマップ上に旅日記を記録できるサービス「Tripline」*二十歳街道まっしぐら</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://20kaido.com/archives/2588966.html"><img src="http://b.hatena.ne.jp/entry/image/http://20kaido.com/archives/2588966.html" alt="" /></a>
+<a rel="nofollow" target="_blank" href="http://20kaido.com/archives/2588966.html">Foursquareの履歴からGoogleマップ上に旅日記を記録できるサービス「Tripline」*二十歳街道まっしぐら</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://20kaido.com/archives/2588966.html"><img src="https://b.hatena.ne.jp/entry/image/http://20kaido.com/archives/2588966.html" alt="" /></a>
 
 「Tripline」とは、簡単に旅行記が作れるWebサービスです。
 
@@ -67,7 +67,7 @@ tags:
 
 余計な情報がうざければ「PrintWhatYouLike」とかで削りましょう。
 
-<a rel="nofollow" target="_blank" href="http://milk200ml.blog73.fc2.com/blog-entry-441.html">Evernote と PrintWhatYouLike の組み合わせが便利すぎる！ 【 マインドマップ１年生 plus ライフハック！ 】</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://milk200ml.blog73.fc2.com/blog-entry-441.html"><img src="http://b.hatena.ne.jp/entry/image/http://milk200ml.blog73.fc2.com/blog-entry-441.html" alt="" /></a>
+<a rel="nofollow" target="_blank" href="http://milk200ml.blog73.fc2.com/blog-entry-441.html">Evernote と PrintWhatYouLike の組み合わせが便利すぎる！ 【 マインドマップ１年生 plus ライフハック！ 】</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://milk200ml.blog73.fc2.com/blog-entry-441.html"><img src="https://b.hatena.ne.jp/entry/image/http://milk200ml.blog73.fc2.com/blog-entry-441.html" alt="" /></a>
 
 
 

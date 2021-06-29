@@ -27,7 +27,7 @@ Reederが対応していないサービスはポスト用のメルアドにメ�
 <!--more-->
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" href="http://www.lovelycharts.com/" target="_blank">Lovely Charts | Diagram software</a><a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://www.lovelycharts.com/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.lovelycharts.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
+  <strong><a rel="nofollow" href="http://www.lovelycharts.com/" target="_blank">Lovely Charts | Diagram software</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://www.lovelycharts.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://www.lovelycharts.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
 <a class="lightview" title="Lovely Charts" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5253972787/"><img src="http://farm6.static.flickr.com/5126/5253972787_b24a325652_m.jpg" alt="Lovely Charts" /></a>  
@@ -35,7 +35,7 @@ Reederが対応していないサービスはポスト用のメルアドにメ�
 操作性は悪くないですが、フリーだと使える図形が少ないかも・・・。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" href="http://balsamiq.com/" target="_blank">Balsamiq</a><a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://balsamiq.com/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://balsamiq.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
+  <strong><a rel="nofollow" href="http://balsamiq.com/" target="_blank">Balsamiq</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://balsamiq.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://balsamiq.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
 <a class="lightview" title="Balsamiq Mockups" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5256862791/"><img src="http://farm6.static.flickr.com/5169/5256862791_7d6d44c3c4_m.jpg" alt="Balsamiq Mockups" /></a>
@@ -46,7 +46,7 @@ Webは本当にただのデモ版なので、これはデスクトップアプ�
 ラフな感じで書けるので気に入っています。iPhoneアプリのデザインも可能。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" href="http://cacoo.com/" target="_blank">Cacoo &#8211; Web上で図の作成とリアルタイムコラボレーション</a><a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://cacoo.com/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://cacoo.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
+  <strong><a rel="nofollow" href="http://cacoo.com/" target="_blank">Cacoo &#8211; Web上で図の作成とリアルタイムコラボレーション</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://cacoo.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://cacoo.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
 <a class="lightview" title="Cacoo" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5257507124/"><img src="http://farm6.static.flickr.com/5004/5257507124_b021f99af0_m.jpg" alt="Cacoo" /></a>
@@ -56,7 +56,7 @@ Webは本当にただのデモ版なので、これはデスクトップアプ�
 カラフルでキュートな図が作れます。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" href="http://www.simplediagrams.com/home" target="_blank">SimpleDiagrams</a><a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://www.simplediagrams.com/home" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.simplediagrams.com/home" border="0" alt="" /></a></strong><br /> <strong> </strong>
+  <strong><a rel="nofollow" href="http://www.simplediagrams.com/home" target="_blank">SimpleDiagrams</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://www.simplediagrams.com/home" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://www.simplediagrams.com/home" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
 <a class="lightview" title="SimpleDiagrams" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5257545952/"><img src="http://farm6.static.flickr.com/5281/5257545952_5c2ea77358_m.jpg" alt="SimpleDiagrams" /></a>

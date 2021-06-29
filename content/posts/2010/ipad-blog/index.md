@@ -23,7 +23,7 @@ tags:
 お店のリンクはこちら。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://www.rakuten.co.jp/hinata-d/">【楽天市場】世界のデザイン雑貨を毎日の生活に。：ヒナタデザイン[トップページ]</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://www.rakuten.co.jp/hinata-d/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.rakuten.co.jp/hinata-d/" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://www.rakuten.co.jp/hinata-d/">【楽天市場】世界のデザイン雑貨を毎日の生活に。：ヒナタデザイン[トップページ]</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://www.rakuten.co.jp/hinata-d/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.rakuten.co.jp/hinata-d/" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
@@ -40,7 +40,7 @@ tags:
 文章の最後のアプリ紹介もここのブックマークレット使ってます。便利すぎ。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://iphone-diary.com/?p=7810">アプリ紹介とBlog紹介の自動HTML生成 – 派生まとめ | 普通のサラリーマンのiPhone日記</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://iphone-diary.com/?p=7810"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://iphone-diary.com/?p=7810" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://iphone-diary.com/?p=7810">アプリ紹介とBlog紹介の自動HTML生成 – 派生まとめ | 普通のサラリーマンのiPhone日記</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://iphone-diary.com/?p=7810"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://iphone-diary.com/?p=7810" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>

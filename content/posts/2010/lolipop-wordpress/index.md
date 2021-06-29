@@ -68,4 +68,4 @@ FTP情報はCyberduckの場合以下を参照。
 ロリポップ、安いし簡単だしおすすめです。  
 ドメイン決めるのに一番時間かかりました・・・。選択肢がいっぱいですよー。
 
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2738713&pid=879690252" target="_blank"><img loading="lazy" src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2738713&pid=879690252" border="0" alt="" width="1" height="1" />★ロリポップ！★WordPressやMovableTypeの簡単インストール、cron、共有SSL対応！</a>
+<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2738713&pid=879690252" target="_blank"><img loading="lazy" src="https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2738713&pid=879690252" border="0" alt="" width="1" height="1" />★ロリポップ！★WordPressやMovableTypeの簡単インストール、cron、共有SSL対応！</a>

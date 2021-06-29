@@ -78,7 +78,7 @@ tags:
 </p>
 
 <p>
-  <a rel="nofollow" target="_blank" href="http://www.quiverglobal.com/">Quiver pen holders for your treasured notebooks</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://www.quiverglobal.com/"><img src="http://b.hatena.ne.jp/entry/image/http://www.quiverglobal.com/" alt="" /></a>
+  <a rel="nofollow" target="_blank" href="http://www.quiverglobal.com/">Quiver pen holders for your treasured notebooks</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://www.quiverglobal.com/"><img src="https://b.hatena.ne.jp/entry/image/http://www.quiverglobal.com/" alt="" /></a>
 </p>
 
 <p>

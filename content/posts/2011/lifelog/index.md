@@ -23,7 +23,7 @@ tags:
 カレンダーにチェックすることで、やったことを記録してまとめることができるアプリです。  
 私は、毎日の散歩と喫茶店に行った日を記録してます。
 
-<a rel="nofollow" target="_blank" href="http://aki19.posterous.com/streaks">さらに美しくなったStreaksで継続を目指そう &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://aki19.posterous.com/streaks"><img src="http://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/streaks" alt="" /></a>
+<a rel="nofollow" target="_blank" href="http://aki19.posterous.com/streaks">さらに美しくなったStreaksで継続を目指そう &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://aki19.posterous.com/streaks"><img src="https://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/streaks" alt="" /></a>
 
 Daytum（公開終了）
 
@@ -50,7 +50,7 @@ Bills ~ On your table（公開終了）
 公共料金などは同居人に請求する必要があるので、Moneylogとは別にして  
 こちらにまとめています。
 
-<a rel="nofollow" target="_blank" href="http://aki19.posterous.com/bills-164">美しい支出管理アプリBills購入 &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://aki19.posterous.com/bills-164"><img src="http://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/bills-164" alt="" /></a>
+<a rel="nofollow" target="_blank" href="http://aki19.posterous.com/bills-164">美しい支出管理アプリBills購入 &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://aki19.posterous.com/bills-164"><img src="https://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/bills-164" alt="" /></a>
 
 FastEver Snap（公開終了）
 
@@ -72,7 +72,7 @@ Evernoteユーザー御用達の写真アップロードアプリ。
 用意されているフィルターを使うだけで簡単に洒落た写真ができるので愛用してます。  
 記録用の写真はFE snap。それ以外はほとんどこっちで撮ってます。
 
-<a rel="nofollow" target="_blank" href="http://aki19.posterous.com/instagram">Instagramおもしろーい &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://aki19.posterous.com/instagram"><img src="http://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/instagram" alt="" /></a>
+<a rel="nofollow" target="_blank" href="http://aki19.posterous.com/instagram">Instagramおもしろーい &#8211; Aki*Pos</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://aki19.posterous.com/instagram"><img src="https://b.hatena.ne.jp/entry/image/http://aki19.posterous.com/instagram" alt="" /></a>
 
 MogSnap（公開終了）
 

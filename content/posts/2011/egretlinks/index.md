@@ -84,7 +84,7 @@ PC用にはico形式のアイコンが必要なので、まずはこれを作り
 
 Favicon作成サービスは色々ありますが、今回は下記のサイトを利用しました。
 
-<a rel="nofollow" href="http://ico.bradleygill.com/index.php" target="_blank">Bradicon! &#8211; converting icons since&#8230; well, a little while now</a><a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://ico.bradleygill.com/index.php" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ico.bradleygill.com/index.php" border="0" alt="" /></a>
+<a rel="nofollow" href="http://ico.bradleygill.com/index.php" target="_blank">Bradicon! &#8211; converting icons since&#8230; well, a little while now</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://ico.bradleygill.com/index.php" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://ico.bradleygill.com/index.php" border="0" alt="" /></a>
 
 [Browse]からアイコンを指定してアップロードするだけで、
 

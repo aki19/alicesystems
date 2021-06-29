@@ -19,7 +19,7 @@ tags:
 
 今回買ってみたのはシールタイプ。
 
-<a href="http://www.flickr.com/photos/41082249@N07/6133562558/" title="20110911013008" rel="lightbox" class="lightview"><img src="http://farm7.static.flickr.com/6081/6133562558_fc0bc1e9da.jpg" alt="20110911013008" class="alignnone" /></a>
+<a href="http://www.flickr.com/photos/41082249@N07/6133562558/" title="20110911013008" rel="lightbox" class="lightview"><img src="https://farm7.static.flickr.com/6081/6133562558_fc0bc1e9da.jpg" alt="20110911013008" class="alignnone" /></a>
 
 裏がシールになっていて、そのまま貼ればいいだけです。  
 つまり、使い捨てになってしまいますが、お値段は500円。  
@@ -27,7 +27,7 @@ tags:
 これなら紙に傷がつくこともありません。  
 黒に赤というデザインも悪く無いですよね。
 
-<a href="http://www.flickr.com/photos/41082249@N07/6133560968/" title="20110911012812" rel="lightbox" class="lightview"><img src="http://farm7.static.flickr.com/6078/6133560968_fd300986b6.jpg" alt="20110911012812" class="alignnone" /></a>
+<a href="http://www.flickr.com/photos/41082249@N07/6133560968/" title="20110911012812" rel="lightbox" class="lightview"><img src="https://farm7.static.flickr.com/6078/6133560968_fd300986b6.jpg" alt="20110911012812" class="alignnone" /></a>
 
 「LEUCHTTURM1917」というモレスキンにとてもとてもよく似たノート用に作られたPEN LOOPみたいですね。  
 ホルダー部分は一応ゴムになっていますが、あんまり伸びないので太めのペンは入らないかもしれません。

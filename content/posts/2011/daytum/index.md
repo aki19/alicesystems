@@ -72,7 +72,7 @@ Lifehacking.jpで堀さんがすごく分かりやすいビデオを用意して
 始めての方は是非そちらを御覧ください。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" href="http://lifehacking.jp/2011/01/daytum-in-10minutes/" target="_blank">10分でわかるライフログサービス Daytum の使い方 | Lifehacking.jp</a><a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://lifehacking.jp/2011/01/daytum-in-10minutes/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lifehacking.jp/2011/01/daytum-in-10minutes/" border="0" alt="" /></a></strong><strong></strong>
+  <strong><a rel="nofollow" href="http://lifehacking.jp/2011/01/daytum-in-10minutes/" target="_blank">10分でわかるライフログサービス Daytum の使い方 | Lifehacking.jp</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://lifehacking.jp/2011/01/daytum-in-10minutes/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://lifehacking.jp/2011/01/daytum-in-10minutes/" border="0" alt="" /></a></strong><strong></strong>
 </div>
 
 ヘビーに使っていると、iPhoneアプリの不具合（時々データ重複が起きたり・・・）が  

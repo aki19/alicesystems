@@ -47,7 +47,7 @@ GTDを実践するようになって一年程経ちますが、
 **レビュー**
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://www.6wunderkinder.com/wunderlist/">Task Management At Its Best With wunderlist | 6Wunderkinder</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://www.6wunderkinder.com/wunderlist/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.6wunderkinder.com/wunderlist/" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://www.6wunderkinder.com/wunderlist/">Task Management At Its Best With wunderlist | 6Wunderkinder</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://www.6wunderkinder.com/wunderlist/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.6wunderkinder.com/wunderlist/" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
@@ -78,7 +78,7 @@ iPhoneアプリもあり。
 wunderlist Task Manager（公開終了）
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://codea-dev.com/gtd/">GeeTeeDee &#8211; Download GeeTeeDee</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://codea-dev.com/gtd/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://codea-dev.com/gtd/" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://codea-dev.com/gtd/">GeeTeeDee &#8211; Download GeeTeeDee</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://codea-dev.com/gtd/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://codea-dev.com/gtd/" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
@@ -103,7 +103,7 @@ wunderlist Task Manager（公開終了）
 ホントに可もなく不可もなくのソフト。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://doodletodo.wetcradle.com/">DoodleToDo</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://doodletodo.wetcradle.com/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://doodletodo.wetcradle.com/" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://doodletodo.wetcradle.com/">DoodleToDo</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://doodletodo.wetcradle.com/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://doodletodo.wetcradle.com/" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
@@ -132,7 +132,7 @@ wunderlist Task Manager（公開終了）
 Toodledoはプライベートのタスクを管理してるので自分の場合ちょっと躊躇しちゃう。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="http://hublistapp.com/">Hub List &#8211; Open Source GTD Style Productivity</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/http://hublistapp.com/"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://hublistapp.com/" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="http://hublistapp.com/">Hub List &#8211; Open Source GTD Style Productivity</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/http://hublistapp.com/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://hublistapp.com/" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
@@ -158,7 +158,7 @@ Toodledoはプライベートのタスクを管理してるので自分の場合
 まだ使えるレベルにない。ノートっぽいデザインは好みだけど・・・。
 
 <div class="ShareInfo">
-  <strong><a rel="nofollow" target="_blank" href="https://i.doit.im/">Doit.im | Online Time and Task Management System, Always Online, Always With You!</a><a rel="nofollow" target="_blank" href="http://b.hatena.ne.jp/entry/https://i.doit.im/"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://i.doit.im/" alt="" /></a></strong></p> 
+  <strong><a rel="nofollow" target="_blank" href="https://i.doit.im/">Doit.im | Online Time and Task Management System, Always Online, Always With You!</a><a rel="nofollow" target="_blank" href="https://b.hatena.ne.jp/entry/https://i.doit.im/"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://i.doit.im/" alt="" /></a></strong></p> 
   
   <div style="color:#808080;font-size:80%;">
   </div>
