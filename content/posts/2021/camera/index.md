@@ -42,12 +42,10 @@ TS32GSDHC10U1 [SDHCカード 32GB Class10 UHS-I対応]</a>
 
 ![a6000](./IMG_4039.jpg)
 
-これに最近、<a target="_blank" href="http://www.yodobashi.com/ec/product/100000001001378580/index.html">SONY
-SEL30M35 [E 30mm F3.5 Macro 30mm/F3.5 ソニーE]</a>を買い足しました。
+これに最近、<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3600888&pid=887188231&vc_url=https%3A%2F%2Fck.storematch.jp%2Frd%3Fv%3D4.0%26c%3Da%26cat%3DDL%26code%3Dcamera-no-ohbayashi_4905524796629%26date%3DcgKjfP%26debug%3D0%26ecsite_id%3D1%26ope%3D2%26pos%3D1%26qid%3DZV%26rid%3DYNxEVwACBI63T_unCoMhHAqDAPrScA%26rqcat%3D0%26sig%3DPysC7r0mQprrzl5BLrxEmdROdBJwhxUGZ7XYcVN2PiE%3D%26site_browser_id%3D4714963f80917e8640dd1018c70297d4cd1b4a80d2fe21a7321d8b0e9b878d75%26site_user_id%3D%26target_roas%3D%26uid%3DgLV%26url_type%3D0%26bfp%3Dd91e64baf514b0f276c7dbe95fa0663600d852de" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3600888&pid=887188231" height="1" width="0" border="0">SONY SEL30M35 [E 30mm F3.5 Macro 30mm/F3.5 ソニーE]</a>を買い足しました。
 本体がブラックなので、シルバーしかないのがちょっと残念ですが・・・。
 
-レンズフィルターも買いました。<a target="_blank" href="http://www.yodobashi.com/ec/product/100000001002072419/index.html">Kenko
-49 S PRO1D プロテクター プラス [保護フィルター 49mm]</a>を買いましたが、レンズフード側ならちゃんとハマりました。
+レンズフィルターも買いました。<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3600888&pid=887188231&vc_url=https%3A%2F%2Fpaypaymall.yahoo.co.jp%2Fstore%2Fy-sofmap%2Fitem%2F4961607509425%2F%3Fsc_i%3Dshp_pc_search_itemlist_shsrg_title%26ea%3D01" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3600888&pid=887188231" height="1" width="0" border="0">Kenko 49 S PRO1D プロテクター プラス [保護フィルター 49mm]</a>を買いましたが、レンズフード側ならちゃんとハマりました。
 （純正品の場合はレンズ側に装着できるみたいです）
 
 もともと撮影する写真が、人物よりは花とかが多く・・・
