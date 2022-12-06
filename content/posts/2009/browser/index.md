@@ -16,12 +16,12 @@ Macではトップサイトがすごく便利なのでSafari使ってました�
 
 というわけで今日はこの三つのブラウザを簡単にご紹介。
 
-<a href="http://www.fenrir.co.jp/sleipnir/" target="_blank"><img src="http://resources.fenrir.co.jp/get/images/get_sle_l2.gif" alt="Sleipnir" border="0" /></a>  
+<a href="http://www.fenrir.co.jp/sleipnir/" target="_blank"><img src="https://resources.fenrir.co.jp/get/images/get_sle_l2.gif" alt="Sleipnir" border="0" /></a>  
 Sleipnirは、とにかくデザインがかわいい。  
 Firefoxもユーザーが作成したスキンがたくさんありますが、  
 こっちはオフィシャルだけで満足できる品質のスキンばかりです。  
 特に好きなのはこれとかこれとか。  
-<a href="http://www.fenrir.co.jp/labs/horie/" target="_blank"><img src="http://resources.fenrir.co.jp/labs/horie/banner/skin05_banner_01.gif" alt="Sleipnir skin Horie skin 05 -Moog-" border="0" /></a><a href="http://www.fenrir.co.jp/labs/horie/" target="_blank"><img src="http://resources.fenrir.co.jp/labs/horie/banner/garden02_banner.gif" alt="Garden Skin vol.02 -Ruse-" border="0" /></a>
+<a href="http://www.fenrir.co.jp/labs/horie/" target="_blank"><img src="https://resources.fenrir.co.jp/labs/horie/banner/skin05_banner_01.gif" alt="Sleipnir skin Horie skin 05 -Moog-" border="0" /></a><a href="http://www.fenrir.co.jp/labs/horie/" target="_blank"><img src="https://resources.fenrir.co.jp/labs/horie/banner/garden02_banner.gif" alt="Garden Skin vol.02 -Ruse-" border="0" /></a>
 
 また、プラグイン拡張も可能。  
 私はDelicious使ってるのでSocial Bookmarkerがあってすごく助かりました。  
@@ -47,7 +47,7 @@ Apple純正なのでデザインもスタイリッシュ。ホント完成され
 プラグインも豊富ではないのでメインブラウザにはなりませんでした。  
 今はトップサイトの為に一回起動して即終了・・・という無駄な使い方してます。
 
-<a href="http://spread.flock.com/buttons/?user=&ref=I-Flock.gif" rel="lightbox[29]"><img style="border:medium none;" src="http://spread.flock.com/buttons/I-Flock.gif" alt="I Flock" title="I Flock" /></a>  
+<a href="http://spread.flock.com/buttons/?user=&ref=I-Flock.gif" rel="lightbox[29]">I Flock</a>  
 FlockはFirefoxの流れを汲むブラウザで、Firefoxの各種プラグインがそのまま利用できます。  
 多種多様なソーシャルサービスと連携しており、ログイン・ログアウトを管理出来ます。  
 私はFirefoxを使っていたときもソーシャルサービス連携プラグインを導入していたので、  

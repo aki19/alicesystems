@@ -30,7 +30,7 @@ Reederが対応していないサービスはポスト用のメルアドにメ�
   <strong><a rel="nofollow" href="http://www.lovelycharts.com/" target="_blank">Lovely Charts | Diagram software</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://www.lovelycharts.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://www.lovelycharts.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
-<a class="lightview" title="Lovely Charts" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5253972787/"><img src="http://farm6.static.flickr.com/5126/5253972787_b24a325652_m.jpg" alt="Lovely Charts" /></a>  
+<a class="lightview" title="Lovely Charts" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5253972787/"><img src="https://farm6.static.flickr.com/5126/5253972787_b24a325652_m.jpg" alt="Lovely Charts" /></a>  
 機能制限ありのフリー版が使えます。日本語は使えません。  
 操作性は悪くないですが、フリーだと使える図形が少ないかも・・・。
 
@@ -38,7 +38,7 @@ Reederが対応していないサービスはポスト用のメルアドにメ�
   <strong><a rel="nofollow" href="http://balsamiq.com/" target="_blank">Balsamiq</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://balsamiq.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://balsamiq.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
-<a class="lightview" title="Balsamiq Mockups" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5256862791/"><img src="http://farm6.static.flickr.com/5169/5256862791_7d6d44c3c4_m.jpg" alt="Balsamiq Mockups" /></a>
+<a class="lightview" title="Balsamiq Mockups" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5256862791/"><img src="https://farm6.static.flickr.com/5169/5256862791_7d6d44c3c4_m.jpg" alt="Balsamiq Mockups" /></a>
 
 機能制限ありのフリー版が使えます。フローチャート作成用というよりモックアップ作成用ですね。  
 Webは本当にただのデモ版なので、これはデスクトップアプリでけっこうよく使ってます。  
@@ -49,7 +49,7 @@ Webは本当にただのデモ版なので、これはデスクトップアプ�
   <strong><a rel="nofollow" href="http://cacoo.com/" target="_blank">Cacoo &#8211; Web上で図の作成とリアルタイムコラボレーション</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://cacoo.com/" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://cacoo.com/" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
-<a class="lightview" title="Cacoo" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5257507124/"><img src="http://farm6.static.flickr.com/5004/5257507124_b021f99af0_m.jpg" alt="Cacoo" /></a>
+<a class="lightview" title="Cacoo" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5257507124/"><img src="https://farm6.static.flickr.com/5004/5257507124_b021f99af0_m.jpg" alt="Cacoo" /></a>
 
 機能制限ありのフリー版が使えます。日本のサービスです。Webのみ。  
 図も豊富で、iPhoneのみならずAndroidのデザインも可能です。  
@@ -59,7 +59,7 @@ Webは本当にただのデモ版なので、これはデスクトップアプ�
   <strong><a rel="nofollow" href="http://www.simplediagrams.com/home" target="_blank">SimpleDiagrams</a><a rel="nofollow" href="https://b.hatena.ne.jp/entry/http://www.simplediagrams.com/home" target="_blank"><img src="https://b.hatena.ne.jp/entry/image/http://www.simplediagrams.com/home" border="0" alt="" /></a></strong><br /> <strong> </strong>
 </div>
 
-<a class="lightview" title="SimpleDiagrams" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5257545952/"><img src="http://farm6.static.flickr.com/5281/5257545952_5c2ea77358_m.jpg" alt="SimpleDiagrams" /></a>
+<a class="lightview" title="SimpleDiagrams" rel="lightbox" href="http://www.flickr.com/photos/41082249@N07/5257545952/"><img src="https://farm6.static.flickr.com/5281/5257545952_5c2ea77358_m.jpg" alt="SimpleDiagrams" /></a>
 
 機能制限ありのフリー版が使えます。デスクトップのみ。  
 図も少なめで、機能もそれほど多くはありませんが、  

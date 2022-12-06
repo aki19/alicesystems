@@ -7,8 +7,8 @@ tags:
   - iPhone/iPad
   - 活用方法
 ---
-<a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600819718/" title="loghome by aki1984, on Flickr"><img class="flickr_photo" src="http://farm6.static.flickr.com/5068/5600819718_8ef57bcffa.jpg" alt="loghome" /></a>  
-<cite class="flickr_photographer"><img src="http://www.flickr.com/favicon.ico" width="16" /><a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600819718/">loghome</a> Photo by <a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/">aki1984</a></cite>
+<a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600819718/" title="loghome by aki1984, on Flickr"><img class="flickr_photo" src="https://farm6.static.flickr.com/5068/5600819718_8ef57bcffa.jpg" alt="loghome" /></a>  
+<cite class="flickr_photographer"><img src="https://www.flickr.com/favicon.ico" width="16" /><a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600819718/">loghome</a> Photo by <a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/">aki1984</a></cite>
 
 今までiPhoneのホーム画面はデザイン性を重視し、使用頻度よりもきれいなアイコンのアプリを選んで並べていました。  
 これはこれで毎日眺めるものなので良かったのですが、  
@@ -59,9 +59,9 @@ Evernoteユーザー御用達の写真アップロードアプリ。
 旅行先でちょっとした写真を撮りたい時に使ってます。  
 これでログを取ることで、Evernoteにステキなカフェマップができるのです！
 
-<a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600392159/" title="1000000043 by aki1984, on Flickr"><img class="flickr_photo" src="http://farm6.static.flickr.com/5230/5600392159_ffc4c97eeb.jpg" width="192" alt="1000000043" /></a>
+<a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600392159/" title="1000000043 by aki1984, on Flickr"><img class="flickr_photo" src="https://farm6.static.flickr.com/5230/5600392159_ffc4c97eeb.jpg" width="192" alt="1000000043" /></a>
 
-<a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600392425/" title="1000000044 by aki1984, on Flickr"><img class="flickr_photo" src="http://farm6.static.flickr.com/5145/5600392425_06b1c4e0b3.jpg" width="192" alt="1000000044" /></a>
+<a rel="nofollow" target="_blank" href="http://www.flickr.com/photos/aki1984/5600392425/" title="1000000044 by aki1984, on Flickr"><img class="flickr_photo" src="https://farm6.static.flickr.com/5145/5600392425_06b1c4e0b3.jpg" width="192" alt="1000000044" /></a>
 
 作成したカフェマップはこんな風に閲覧して活用してます。  
 上はAwesomeNoteの写真ビュー。下はEvernote公式クライアントのマップビューです。

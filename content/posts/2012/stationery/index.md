@@ -21,7 +21,7 @@ tags:
 直径1.2cmのペンまでOKなのでちょっと太めの三色ボールペンを入れてます。便利。
 
 <div style="margin-bottom:7px; padding:0px;">
-  <a href="http://calamel.jp/%E2%98%86%E3%80%80%E3%82%B3%E3%82%B3%E3%83%95%E3%82%BB%E3%83%B3%E3%80%80coco%20fusen%20%E3%80%80CF-2002/item/1007248197?afid=aki19" target="_blank"><img src="http://www.webtenshindo.co.jp/shopimages/webtenshindo/017015000012.jpg" width=300 height=300 alt="☆　ココフセン　coco fusen 　CF-2002" style="margin:0px; padding:0px; border:none;" /></a>
+  <a href="http://calamel.jp/%E2%98%86%E3%80%80%E3%82%B3%E3%82%B3%E3%83%95%E3%82%BB%E3%83%B3%E3%80%80coco%20fusen%20%E3%80%80CF-2002/item/1007248197?afid=aki19" target="_blank"><img src="https://www.webtenshindo.co.jp/shopimages/webtenshindo/017015000012.jpg" width=300 height=300 alt="☆　ココフセン　coco fusen 　CF-2002" style="margin:0px; padding:0px; border:none;" /></a>
 </div>
 
 <div style="width:300px; margin:0px; padding:0px;">
@@ -32,7 +32,7 @@ tags:
 ４ケースあるので色々な場所に置いて使ってます。かわいい。
 
 <div style="margin-bottom:7px; padding:0px;">
-  <a href="http://calamel.jp/%E5%8D%B0%E9%91%91%E3%82%B1%E3%83%BC%E3%82%B9%28%E6%9C%B1%E8%82%89%E4%BB%98%E3%81%8D%29/item/32318945?afid=aki19" target="_blank"><img src="http://img14.shop-pro.jp/PA01077/170/product/32318945.jpg?2011060" width=300 height=226 alt="印鑑ケース(朱肉付き)" style="margin:0px; padding:0px; border:none;" /></a>
+  <a href="http://calamel.jp/%E5%8D%B0%E9%91%91%E3%82%B1%E3%83%BC%E3%82%B9%28%E6%9C%B1%E8%82%89%E4%BB%98%E3%81%8D%29/item/32318945?afid=aki19" target="_blank"><img src="https://img14.shop-pro.jp/PA01077/170/product/32318945.jpg?2011060" width=300 height=226 alt="印鑑ケース(朱肉付き)" style="margin:0px; padding:0px; border:none;" /></a>
 </div>
 
 <div style="width:300px; margin:0px; padding:0px;">
@@ -43,7 +43,7 @@ tags:
 それまではゼクシィの付録を使っていたので進歩です・・・。
 
 <div style="margin-bottom:7px; padding:0px;">
-  <a href="http://calamel.jp/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E6%9F%84%E3%81%AE%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%83%BC%E3%83%97%E3%80%80%E3%83%87%E3%82%B3%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/item/46046126?afid=aki19" target="_blank"><img src="http://img17.shop-pro.jp/PA01148/557/product/46046126.jpg?2012072" width=300 height=300 alt="アイスクリーム柄のデコレーションテープ　デコラッシュ" style="margin:0px; padding:0px; border:none;" /></a>
+  <a href="http://calamel.jp/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E6%9F%84%E3%81%AE%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%83%BC%E3%83%97%E3%80%80%E3%83%87%E3%82%B3%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/item/46046126?afid=aki19" target="_blank"><img src="https://img17.shop-pro.jp/PA01148/557/product/46046126.jpg?2012072" width=300 height=300 alt="アイスクリーム柄のデコレーションテープ　デコラッシュ" style="margin:0px; padding:0px; border:none;" /></a>
 </div>
 
 <div style="width:300px; margin:0px; padding:0px;">
@@ -56,7 +56,7 @@ tags:
 思ってたよりも正確に出力されます。  
 マステも使えない自分には難易度の高いアイテムですが・・・。
 
-<a href="http://www.flickr.com/photos/41082249@N07/7904486336/" title="20120901145509" rel="lightbox" class="lightview"><img src="http://farm9.staticflickr.com/8029/7904486336_649a6fee38.jpg" alt="20120901145509" /></a>
+<a href="http://www.flickr.com/photos/41082249@N07/7904486336/" title="20120901145509" rel="lightbox" class="lightview"><img src="https://farm9.staticflickr.com/8029/7904486336_649a6fee38.jpg" alt="20120901145509" /></a>
 
 夫がプレゼントしてくれた「ぺんてる ランスロット3シリーズ 万年筆細字」です。  
 上品なピンク色と細字が気に入ってます。書きやすいです。  

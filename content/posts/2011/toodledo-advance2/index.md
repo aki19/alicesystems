@@ -148,7 +148,7 @@ Locationは2DoオリジナルではないのでいつかはWebとの同期に対
 
 画像認識を利用してやったことが後から確認できるようにしています。
 
-<a href="http://www.flickr.com/photos/41082249@N07/5366290071/" title="EvernoteArchive" rel="lightbox" class="lightview"><img alt="EvernoteArchive" src="http://farm6.static.flickr.com/5281/5366290071_5bb444ff57_m.jpg" /></a>
+<a href="http://www.flickr.com/photos/41082249@N07/5366290071/" title="EvernoteArchive" rel="lightbox" class="lightview"><img alt="EvernoteArchive" src="https://farm6.static.flickr.com/5281/5366290071_5bb444ff57_m.jpg" /></a>
 
 これを2Doを使っても続けたかったので、最初はiPhoneでDoneタブ画面をスクショして、PCに送り、
 
