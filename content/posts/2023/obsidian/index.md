@@ -1,5 +1,5 @@
 ---
-title: "Obsidian"
+title: "Obsidianを使った日報運用方法"
 date: 2023-02-07T11:20:12+09:00
 categories:
   - ソフトウェア
