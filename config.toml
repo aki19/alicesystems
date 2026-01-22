@@ -10,7 +10,7 @@ googleAnalytics = "G-419DTQPCNR"
 [Author] # Used in authorbox
   name = "aki19"
   bio = "プログラマやってます。新しいサービスやソフトを試すのが大好き！"
-  avatar = "img/myicon.png"
+  avatar = "img/myicon2.png"
 
 [Params]
   description = "気になるソフトや開発情報メモ"
